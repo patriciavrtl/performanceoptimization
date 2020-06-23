@@ -1,0 +1,23 @@
+{
+    "name": "Broadcast",
+    "short_name": "Broadcast",
+    "display": "standalone",
+    "start_url": ".",
+    "scope": "/",
+    "background_color": "#cfc",
+    "theme_color": "#cfc",
+    "description": "Broadcast Webseite",
+    "icons": [
+        {
+            "src": "./icons/icon512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "./icons/icon16.png",
+            "sizes": "16x16",
+            "type": "image/png",
+            "purpose": "badge"
+        }
+    ]
+}
