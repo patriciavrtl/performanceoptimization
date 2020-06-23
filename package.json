@@ -4,7 +4,8 @@
     "http-server": "^0.12.3"
   },
   "scripts": {
-    "start": "http-server www -p 8080"
+    "start": "http-server www -p 8080",
+    "build": "node index.js"
   },
   "dependencies": {
     "imagemin": "^7.0.1",
